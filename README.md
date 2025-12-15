@@ -89,8 +89,8 @@ The demographic augmentation approach demonstrates:
 ## Authors
 
 - [hijab-beg](https://github.com/hijab-beg)
-- [CONTRIBUTOR_USERNAME_1](https://github.com/CONTRIBUTOR_USERNAME_1)
-- [CONTRIBUTOR_USERNAME_2](https://github.com/CONTRIBUTOR_USERNAME_2)
+- [maryamss-hub](https://github.com/maryamss-hub)
+- [zunaira-ahmd](https://github.com/zunaira-ahmd)
 
 ## License
 
