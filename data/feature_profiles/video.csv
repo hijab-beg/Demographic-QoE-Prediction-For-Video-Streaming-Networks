@@ -1,0 +1,16 @@
+feature_name,feature_arg,identifier
+bitrate,kbps,video_bitrate
+chunk_duration,second,chunk_duration
+qp,encoding,qp
+framerate,encoding,framerate
+width,encoding,width
+height,encoding,height
+is_best,encoding,is_best
+mvm,encoding,mvm
+psnr,DEVICE,psnr
+ssim,DEVICE,ssim
+msssim,DEVICE,msssim
+vqm,DEVICE,vqm
+strred,DEVICE,strred
+vmaf,DEVICE,vmaf
+ssimplus,DEVICE,ssimplus
